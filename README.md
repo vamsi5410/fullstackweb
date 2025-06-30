@@ -68,11 +68,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 - MongoDB Compass (DB)
 - Chrome DevTools (UI)
 
-## 👨‍💻 Team
-- **Bolleddula Vivek Rahul Rai** – Backend, Architecture 
-- **Battu Baby Sarojini** – Frontend (UI)  
-- **Batraju Vamsikrishna** – API Integration, Deployment  
-- **Barama Haritha Sai** – Testing, Docs, Support  
+
 
 ---
 
