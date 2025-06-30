@@ -67,6 +67,10 @@ Visit: [http://localhost:3000](http://localhost:3000)
 - Postman (API)
 - MongoDB Compass (DB)
 - Chrome DevTools (UI)
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software with proper attribution.
 
 
 
